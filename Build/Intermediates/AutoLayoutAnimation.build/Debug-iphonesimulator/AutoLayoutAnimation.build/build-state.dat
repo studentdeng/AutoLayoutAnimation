@@ -1,0 +1,1122 @@
+TAutoLayoutAnimation
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-avfajycttxfjtgdcmjwhskbytlxt/AutoLayoutAnimation-Prefix.pch.pch AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/CUAppDelegate.o /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/CUAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/main.o /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/CUViewController.o /Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/AutoLayoutAnimation normal i386
+cCopyStringsFile /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/en.lproj/InfoPlist.strings AutoLayoutAnimation/en.lproj/InfoPlist.strings
+cCompileXIB /Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.xib
+cCompileAssetCatalog /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/Images.xcassets
+cProcessInfoPlistFile /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/Info.plist /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/AutoLayoutAnimation-Info.plist
+cGenerateDSYMFile /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app.dSYM /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/AutoLayoutAnimation
+cTouch /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534750000000000000000198
+t1397182464
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005346650F00000000000003B4
+t1397122319
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053466515000000000000019E
+t1397122325
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000053466517000000000058E0E0
+t1397122327
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005346651700000000005B82F0
+t1397122327
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053474FD80000000000446820
+t1397182424
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c000000005346651700000000003599D0
+t1397122327
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005346651800000000002FC3B0
+t1397122328
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000053466517000000000004B000
+t1397122327
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053466519000000000088D8C0
+t1397122329
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000534665190000000000037680
+t1397122329
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005346651A000000000048F720
+t1397122330
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005346651A000000000013FD70
+t1397122330
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005346651D0000000001F1DE10
+t1397122333
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005346652600000000002BC360
+t1397122342
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c000000005346652D0000000000002338
+t1397122349
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c000000005346652D000000000008D370
+t1397122349
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c000000005346652D0000000000392E20
+t1397122349
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c00000000538D4CDC00000000000141F0
+t1401769180
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c000000005346652D0000000000014A80
+t1397122349
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c000000005346652D0000000000033BA0
+t1397122349
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c000000005346652D000000000001CFB0
+t1397122349
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c000000005346652D000000000001B2B0
+t1397122349
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c000000005346652E00000000000C9570
+t1397122350
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c000000005346652E0000000000063280
+t1397122350
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c000000005346652D0000000000008880
+t1397122349
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c000000005346652D0000000000015080
+t1397122349
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005346652E00000000000230F0
+t1397122350
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c000000005346652E000000000000E380
+t1397122350
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c000000005346652E0000000000089380
+t1397122350
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c000000005346652E0000000000017320
+t1397122350
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c000000005346652E0000000000039CD0
+t1397122350
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c000000005346652E000000000000B0B0
+t1397122350
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c000000005346652E0000000000167E80
+t1397122350
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005346652E00000000000106A0
+t1397122350
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c000000005346652E000000000001CE40
+t1397122350
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005346652E00000000000740C0
+t1397122350
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c000000005346652E000000000006CA60
+t1397122350
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c000000005346652E000000000001BAD0
+t1397122350
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c000000005346652E0000000000084A20
+t1397122350
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005346653E0000000000000ADC
+t1397122366
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053474FD8000000000000514C
+t1397182424
+s20812
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000053895E2E0000000000771DC0
+t1401511470
+s7806400
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000053895E2E00000000009F47D0
+t1401511470
+s10438608
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053895E2F0000000000455270
+t1401511471
+s4543088
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000053895E2F0000000000422420
+t1401511471
+s4334624
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000053895E3900000000003B1830
+t1401511481
+s3872816
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000053895E3A00000000000573B0
+t1401511482
+s357296
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053895E3B00000000008E9620
+t1401511483
+s9344544
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000053895E3E0000000000037660
+t1401511486
+s226912
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000053895E4000000000004A1790
+t1401511488
+s4855696
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000053895E41000000000013B9C0
+t1401511489
+s1292736
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000053895E43000000000239A5F0
+t1401511491
+s37332464
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000053895E6E00000000002B50A0
+t1401511534
+s2838688
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/libSystem.dylib
+c0000000053895EB6000000000001D720
+t1401511606
+s120608
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/libextension.dylib
+c0000000053895EB6000000000006D740
+t1401511606
+s448320
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/libobjc.dylib
+c0000000053895EB700000000003FF5A0
+t1401511607
+s4191648
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libcache_sim.dylib
+c0000000053895EB70000000000014C10
+t1401511607
+s85008
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libcommonCrypto.dylib
+c0000000053895EB70000000000036260
+t1401511607
+s221792
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libcompiler_rt.dylib
+c0000000053895EB7000000000001CFA0
+t1401511607
+s118688
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000053895EB7000000000001B400
+t1401511607
+s111616
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libcorecrypto.dylib
+c0000000053895EB70000000000111860
+t1401511607
+s1120352
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libdispatch.dylib
+c0000000053895EB7000000000007B990
+t1401511607
+s506256
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libdyld.dylib
+c0000000053895EB7000000000000E370
+t1401511607
+s58224
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/liblaunch_sim.dylib
+c0000000053895EB7000000000000C990
+t1401511607
+s51600
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000053895EB70000000000017310
+t1401511607
+s94992
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000053895EB70000000000023370
+t1401511607
+s144240
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000053895EB7000000000000E3A0
+t1401511607
+s58272
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_coretls.dylib
+c0000000053895EB700000000000468A0
+t1401511607
+s288928
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_malloc.dylib
+c0000000053895EB70000000000049B90
+t1401511607
+s301968
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_network.dylib
+c0000000053895EB700000000000C89E0
+t1401511607
+s821728
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000053895EB70000000000049280
+t1401511607
+s299648
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000053895EB7000000000000B0A0
+t1401511607
+s45216
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000053895EB7000000000017C360
+t1401511607
+s1557344
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000053895EB70000000000011690
+t1401511607
+s71312
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_coreservices.dylib
+c0000000053895EB7000000000000C4A0
+t1401511607
+s50336
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000053895EB7000000000001CF30
+t1401511607
+s118576
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000053895EB700000000000768C0
+t1401511607
+s485568
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_kernel.dylib
+c0000000053895EB70000000000017600
+t1401511607
+s95744
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000053895EB7000000000006EE90
+t1401511607
+s454288
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_platform.dylib
+c0000000053895EB7000000000000F780
+t1401511607
+s63360
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_pthread.dylib
+c0000000053895EB7000000000000D410
+t1401511607
+s54288
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_sandbox.dylib
+c0000000053895EB700000000000125F0
+t1401511607
+s75248
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_trace.dylib
+c0000000053895EB7000000000001F450
+t1401511607
+s128080
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000053895EB7000000000001B710
+t1401511607
+s112400
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libxpc.dylib
+c0000000053895EB7000000000008DE40
+t1401511607
+s581184
+
+N/Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/6.0/lib/darwin/libclang_rt.ios.a
+c000000005383ED980000000000006A88
+t1401154968
+s27272
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/AutoLayoutAnimation-Info.plist
+c00000000539E9D9E0000000000000489
+t1402903966
+s1161
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch
+c00000000539E9D9E0000000000000154
+t1402903966
+s340
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/CUAppDelegate.h
+c00000000539E9D9E000000000000011A
+t1402903966
+s282
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/CUAppDelegate.m
+c00000000539E9DD000000000000008D7
+t1402904016
+s2263
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/Images.xcassets
+c00000000539E9D9E0000000000000088
+t1402903966
+s136
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/en.lproj/InfoPlist.strings
+c00000000539E9D9E000000000000002D
+t1402903966
+s45
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/main.m
+c00000000539E9D9E0000000000000150
+t1402903966
+s336
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/AutoLayoutAnimation.LinkFileList
+c00000000539EDF2F0000000000000201
+t1402920751
+s513
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/CUAppDelegate.o
+t1402920960
+s64400
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/CUViewController.o
+t1402921284
+s64952
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/main.o
+t1402920960
+s3572
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/AutoLayoutAnimation.LinkFileList
+c00000000539EDFCA0000000000000207
+t1402920906
+s519
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/CUAppDelegate.o
+t1402920907
+s70892
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/CUViewController.o
+t1402920947
+s68848
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/main.o
+t1402920907
+s3800
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/assetcatalog_dependencies.txt
+t1402920908
+s434
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/assetcatalog_generated_info.plist
+t1402920908
+s525
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-avfajycttxfjtgdcmjwhskbytlxt/AutoLayoutAnimation-Prefix.pch.pch
+t1402904398
+s122512
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-exmkwbaqxucbxcdfoavuutnrrcfk/AutoLayoutAnimation-Prefix.pch.pch
+t1402920907
+s123380
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app
+t1402921284
+s306
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app.dSYM
+t1402921202
+s102
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/AutoLayoutAnimation
+t1402921284
+s29700
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/CUViewController.nib
+t1402920908
+s2104
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/Info.plist
+t1402920908
+s1011
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/PkgInfo
+t1402920908
+s8
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/en.lproj/InfoPlist.strings
+t1402920750
+s42
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.h
+c00000000539E9DB800000000000000DC
+t1402903992
+s220
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.m
+c00000000539EE14300000000000013BE
+t1402921283
+s5054
+
+N/Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.xib
+c00000000539EDFBC0000000000000AC5
+t1402920892
+s2757
+
+N/usr/lib/libSystem.B.dylib
+c00000000538D4CC6000000000000E6D0
+t1401769158
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005302F3030000000000012A00
+t1392702211
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005302F2EB000000000002E320
+t1392702187
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005302F2F70000000000021860
+t1392702199
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005302F303000000000001B620
+t1392702211
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005302F30300000000000BD920
+t1392702211
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c00000000538D4CDC00000000000141F0
+t1401769180
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005302F303000000000000A120
+t1392702211
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c000000005302F303000000000001D550
+t1392702211
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005302F3030000000000014EE0
+t1392702211
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005302F3050000000000010380
+t1392702213
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005302F305000000000000C4C0
+t1392702213
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005302F30300000000000357A0
+t1392702211
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005302F303000000000000C070
+t1392702211
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c000000005302F2F70000000000168D00
+t1392702199
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000538D4CD80000000000010630
+t1401769176
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c000000005302F304000000000001DF10
+t1392702212
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005302F2F70000000000075B00
+t1392702199
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c00000000538D4CC6000000000007CD60
+t1401769158
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005302F2F700000000000766C0
+t1392702199
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c000000005302F3040000000000044DC0
+t1392702212
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005302F2F70000000000021FA0
+t1392702199
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c000000005302F304000000000002D920
+t1392702212
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005302F304000000000001E570
+t1392702212
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c00000000538D4CCE000000000000CC70
+t1401769166
+s52336
+
+N/usr/lib/system/libsystem_stats.dylib
+c00000000538D4CD20000000000009A80
+t1401769170
+s39552
+
+N/usr/lib/system/libunc.dylib
+c000000005302F2FF000000000000C3F0
+t1392702207
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005302F30400000000000199F0
+t1392702212
+s104944
+
+CBuild AST from /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/CUAppDelegate.m
+r0
+
+CBuild AST from /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/main.m
+r0
+
+CBuild AST from /Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6ef9f4c3184fb941^737ff5c3184fb941^---0#1#1#--18"Check dependencies36"E943309D-08A8-4673-9329-C083292D2760-
+
+CCompileAssetCatalog /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/Images.xcassets
+s424613707.348590
+e424613708.320338
+r1
+xCompileAssetCatalog
+x/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app
+x/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/LaunchImage-700-568h@2x.png
+o/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/Assets.car
+o/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"CompileAssetCatalog Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app AutoLayoutAnimation/Images.xcassets116"CompileAssetCatalog Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app AutoLayoutAnimation/Images.xcassetscc5f594b174fb941^9b75764c174fb941^-462"/* com.apple.actool.compilation-results *//Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/LaunchImage-700-568h@2x.png/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/Assets.car/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@86"file:///Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/Images.xcassets/0000000000000000^1254"CompileAssetCatalog Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app AutoLayoutAnimation/Images.xcassets    cd /Users/yuguang/Desktop/AutoLayoutAnimation    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/Images.xcassets36"9E3CF8B7-8844-4746-A902-604C04C8E34F-
+b38ED16F8-2050-4D1F-87D5-68620C43E04B
+
+CCompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/CUAppDelegate.o /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/CUAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424613760.125082
+e424613760.305380
+r1
+xCompileC
+xBuild/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/CUAppDelegate.o
+x/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/CUAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/CUAppDelegate.m
+d/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/CUAppDelegate.h
+d/Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/CUAppDelegate.m242"CompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/CUAppDelegate.o AutoLayoutAnimation/CUAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler80282080174fb941^b62d4e80174fb941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/CUAppDelegate.m0000000000000000^4057"CompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/CUAppDelegate.o AutoLayoutAnimation/CUAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuguang/Desktop/AutoLayoutAnimation    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-generated-files.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-own-target-headers.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-all-target-headers.hmap -iquote /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-project-headers.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/DerivedSources/i386 -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/DerivedSources -F/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator -include /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-avfajycttxfjtgdcmjwhskbytlxt/AutoLayoutAnimation-Prefix.pch -MMD -MT dependencies -MF /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/CUAppDelegate.d --serialize-diagnostics /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/CUAppDelegate.dia -c /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/CUAppDelegate.m -o /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/CUAppDelegate.o36"E1A7C899-E819-459A-90E6-054D9F2F8960-
+bB1041FF2-5810-4A27-A5B7-948F6C99AF6F
+
+CCompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/CUViewController.o /Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424614083.959250
+e424614084.047568
+r1
+xCompileC
+xBuild/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/CUViewController.o
+x/Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.m
+d/Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.m228"CompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/CUViewController.o CUViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5caff5c3184fb941^882e0cc4184fb941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.m0000000000000000^4035"CompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/CUViewController.o CUViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuguang/Desktop/AutoLayoutAnimation    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-generated-files.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-own-target-headers.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-all-target-headers.hmap -iquote /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-project-headers.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/DerivedSources/i386 -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/DerivedSources -F/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator -include /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-avfajycttxfjtgdcmjwhskbytlxt/AutoLayoutAnimation-Prefix.pch -MMD -MT dependencies -MF /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/CUViewController.d --serialize-diagnostics /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/CUViewController.dia -c /Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.m -o /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/CUViewController.o36"1BCF524B-170C-4EDC-98B0-06318A65A44C-
+b7DA87DF6-637C-441E-B103-C1AC0E5C6A98
+
+CCompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/main.o /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424613760.125293
+e424613760.270145
+r1
+xCompileC
+xBuild/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/main.o
+x/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/main.m
+d/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/CUAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/main.m224"CompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/main.o AutoLayoutAnimation/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler37352080174fb941^fe294580174fb941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/main.m0000000000000000^4003"CompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/main.o AutoLayoutAnimation/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuguang/Desktop/AutoLayoutAnimation    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-generated-files.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-own-target-headers.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-all-target-headers.hmap -iquote /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-project-headers.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/DerivedSources/i386 -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/DerivedSources -F/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator -include /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-avfajycttxfjtgdcmjwhskbytlxt/AutoLayoutAnimation-Prefix.pch -MMD -MT dependencies -MF /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/main.dia -c /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/main.m -o /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/main.o36"20BDFD95-E56B-4270-952A-ED4385DA83C4-
+bB1041FF2-5810-4A27-A5B7-948F6C99AF6F
+
+CCompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/CUAppDelegate.o /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/CUAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424613707.103428
+e424613707.255402
+r1
+xCompileC
+xBuild/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/CUAppDelegate.o
+x/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/CUAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/CUAppDelegate.m
+d/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/CUAppDelegate.h
+d/Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/CUAppDelegate.m246"CompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/CUAppDelegate.o AutoLayoutAnimation/CUAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerbb981a4b174fb941^3563414b174fb941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/CUAppDelegate.m0000000000000000^4071"CompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/CUAppDelegate.o AutoLayoutAnimation/CUAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuguang/Desktop/AutoLayoutAnimation    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-generated-files.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-own-target-headers.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-all-target-headers.hmap -iquote /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-project-headers.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/DerivedSources/x86_64 -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/DerivedSources -F/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator -include /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-exmkwbaqxucbxcdfoavuutnrrcfk/AutoLayoutAnimation-Prefix.pch -MMD -MT dependencies -MF /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/CUAppDelegate.d --serialize-diagnostics /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/CUAppDelegate.dia -c /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/CUAppDelegate.m -o /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/CUAppDelegate.o36"C6C95A4F-6A81-4597-81C7-88EAF0927045-
+b38ED16F8-2050-4D1F-87D5-68620C43E04B
+
+CCompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/CUViewController.o /Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424613747.425854
+e424613747.513048
+r1
+xCompileC
+xBuild/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/CUViewController.o
+x/Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.m
+d/Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.m232"CompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/CUViewController.o CUViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc91e6d73174fb941^7a708373174fb941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.m0000000000000000^4049"CompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/CUViewController.o CUViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuguang/Desktop/AutoLayoutAnimation    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-generated-files.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-own-target-headers.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-all-target-headers.hmap -iquote /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-project-headers.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/DerivedSources/x86_64 -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/DerivedSources -F/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator -include /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-exmkwbaqxucbxcdfoavuutnrrcfk/AutoLayoutAnimation-Prefix.pch -MMD -MT dependencies -MF /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/CUViewController.d --serialize-diagnostics /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/CUViewController.dia -c /Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.m -o /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/CUViewController.o36"266FAB15-47EA-489F-A5DA-885D2DC63388-
+b392899A8-7642-4E58-A6CC-3C0C7AD1EACB
+
+CCompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/main.o /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424613707.103616
+e424613707.247195
+r1
+xCompileC
+xBuild/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/main.o
+x/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/main.m
+d/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/CUAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/main.m228"CompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/main.o AutoLayoutAnimation/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5ea21a4b174fb941^b85a3f4b174fb941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/main.m0000000000000000^4017"CompileC Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/main.o AutoLayoutAnimation/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuguang/Desktop/AutoLayoutAnimation    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-generated-files.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-own-target-headers.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-all-target-headers.hmap -iquote /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-project-headers.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/DerivedSources/x86_64 -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/DerivedSources -F/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator -include /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-exmkwbaqxucbxcdfoavuutnrrcfk/AutoLayoutAnimation-Prefix.pch -MMD -MT dependencies -MF /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/main.dia -c /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/main.m -o /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/main.o36"A7D92B4A-7FF1-4BE4-AD4F-B7FC4CF50C0A-
+b38ED16F8-2050-4D1F-87D5-68620C43E04B
+
+CCompileXIB /Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.xib
+s424613707.347750
+e424613708.259750
+r1
+xCompileXIB
+x/Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compiling /Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.xib31"CompileXIB CUViewController.xib9f20594b174fb941^3f6f764c174fb941^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.xib0000000000000000^771"CompileXIB CUViewController.xib    cd /Users/yuguang/Desktop/AutoLayoutAnimation    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/CUViewController.nib /Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.xib36"41DFBD94-34BD-4136-AA10-0C9CA1F526A3-
+b38ED16F8-2050-4D1F-87D5-68620C43E04B
+
+CCopyStringsFile /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/en.lproj/InfoPlist.strings AutoLayoutAnimation/en.lproj/InfoPlist.strings
+s424613550.842021
+e424613550.843677
+r1
+xCopyStringsFile
+x/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/en.lproj/InfoPlist.strings
+xAutoLayoutAnimation/en.lproj/InfoPlist.strings
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/en.lproj/InfoPlist.strings150"CopyStringsFile Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/en.lproj/InfoPlist.strings AutoLayoutAnimation/en.lproj/InfoPlist.strings4eb8d7ae164fb941^cefbd7ae164fb941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/en.lproj/InfoPlist.strings0000000000000000^661"CopyStringsFile Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/en.lproj/InfoPlist.strings AutoLayoutAnimation/en.lproj/InfoPlist.strings    cd /Users/yuguang/Desktop/AutoLayoutAnimation    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/en.lproj -- AutoLayoutAnimation/en.lproj/InfoPlist.strings36"1FE4C178-A6FE-4802-951F-3448190AEC2C-
+bD1BACDBC-8FE6-4F1D-ABF2-27EF0F67B62E
+
+CGenerateDSYMFile /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app.dSYM /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/AutoLayoutAnimation
+s424614084.083643
+e424614084.101407
+r1
+xGenerateDSYMFile
+x/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app.dSYM
+x/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/AutoLayoutAnimation
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Generate /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app.dSYM163"GenerateDSYMFile Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app.dSYM Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/AutoLayoutAnimation7d7915c4184fb941^55f619c4184fb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app.dSYM/0000000000000000^745"GenerateDSYMFile Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app.dSYM Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/AutoLayoutAnimation    cd /Users/yuguang/Desktop/AutoLayoutAnimation    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/AutoLayoutAnimation -o /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app.dSYM36"B7426091-559C-450D-893C-155A3E696F87-
+b7DA87DF6-637C-441E-B103-C1AC0E5C6A98
+
+CLd /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/AutoLayoutAnimation normal i386
+s424614084.049212
+e424614084.081959
+r1
+xLd
+x/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/AutoLayoutAnimation
+xnormal
+xi386
+d/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/AutoLayoutAnimation.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/CUAppDelegate.o
+d/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/main.o
+d/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/CUViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Link /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/AutoLayoutAnimation95"Ld Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/AutoLayoutAnimation normal i386b5a70cc4184fb941^09fd14c4184fb941^---0#0#1#--1533"Ld Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/AutoLayoutAnimation normal i386    cd /Users/yuguang/Desktop/AutoLayoutAnimation    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator -F/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator -filelist /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/AutoLayoutAnimation.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/i386/AutoLayoutAnimation_dependency_info.dat -o /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/AutoLayoutAnimation36"1B7B87D1-8805-45D8-9AEF-352ACCDDFAC1-
+b7DA87DF6-637C-441E-B103-C1AC0E5C6A98
+
+CLd /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/AutoLayoutAnimation normal x86_64
+s424613747.514602
+e424613747.545998
+r1
+xLd
+x/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/AutoLayoutAnimation
+xnormal
+xx86_64
+d/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/AutoLayoutAnimation.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/CUAppDelegate.o
+d/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/main.o
+d/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/CUViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Link /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/AutoLayoutAnimation97"Ld Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/AutoLayoutAnimation normal x86_6447c98373174fb941^08c88b73174fb941^---0#0#1#--1541"Ld Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/AutoLayoutAnimation normal x86_64    cd /Users/yuguang/Desktop/AutoLayoutAnimation    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator -F/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator -filelist /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/AutoLayoutAnimation.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/Objects-normal/x86_64/AutoLayoutAnimation_dependency_info.dat -o /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/AutoLayoutAnimation36"4CA64B7D-CA48-441B-9A55-0A28C992F45D-
+b392899A8-7642-4E58-A6CC-3C0C7AD1EACB
+
+CProcessInfoPlistFile /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/Info.plist /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/AutoLayoutAnimation-Info.plist
+s424613708.320785
+e424613708.322260
+r1
+xProcessInfoPlistFile
+x/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/Info.plist
+x/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/AutoLayoutAnimation-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Process /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/AutoLayoutAnimation-Info.plist143"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/Info.plist AutoLayoutAnimation/AutoLayoutAnimation-Info.plistfd30524c174fb941^f777764c174fb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/AutoLayoutAnimation-Info.plist0000000000000000^1010"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/Info.plist AutoLayoutAnimation/AutoLayoutAnimation-Info.plist    cd /Users/yuguang/Desktop/AutoLayoutAnimation    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/AutoLayoutAnimation-Info.plist -genpkginfo /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/assetcatalog_generated_info.plist -o /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/Info.plist36"2A6403A2-9D9C-4522-B36C-52DC7D290045-
+b38ED16F8-2050-4D1F-87D5-68620C43E04B
+
+CProcessPCH /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-avfajycttxfjtgdcmjwhskbytlxt/AutoLayoutAnimation-Prefix.pch.pch AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424597198.311500
+e424597198.463731
+r1
+xProcessPCH
+x/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-avfajycttxfjtgdcmjwhskbytlxt/AutoLayoutAnimation-Prefix.pch.pch
+xAutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Precompile AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch259"ProcessPCH Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-avfajycttxfjtgdcmjwhskbytlxt/AutoLayoutAnimation-Prefix.pch.pch AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2cd34fced64eb941^95b876ced64eb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch0000000000000000^3914"ProcessPCH Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-avfajycttxfjtgdcmjwhskbytlxt/AutoLayoutAnimation-Prefix.pch.pch AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuguang/Desktop/AutoLayoutAnimation    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-generated-files.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-own-target-headers.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-all-target-headers.hmap -iquote /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-project-headers.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/DerivedSources/i386 -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/DerivedSources -F/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-avfajycttxfjtgdcmjwhskbytlxt/AutoLayoutAnimation-Prefix.pch.dia -MMD -MT dependencies -MF /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-avfajycttxfjtgdcmjwhskbytlxt/AutoLayoutAnimation-Prefix.pch.d -c /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch -o /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-avfajycttxfjtgdcmjwhskbytlxt/AutoLayoutAnimation-Prefix.pch.pch36"953D0FE0-099E-4213-A4FC-E5B0F03C77A0-
+bB841246A-2047-411D-80BF-6F8BFF3BD14B
+
+CProcessPCH /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-exmkwbaqxucbxcdfoavuutnrrcfk/AutoLayoutAnimation-Prefix.pch.pch AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424613706.797266
+e424613707.102406
+r1
+xProcessPCH
+x/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-exmkwbaqxucbxcdfoavuutnrrcfk/AutoLayoutAnimation-Prefix.pch.pch
+xAutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Precompile AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch261"ProcessPCH Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-exmkwbaqxucbxcdfoavuutnrrcfk/AutoLayoutAnimation-Prefix.pch.pch AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd861cc4a174fb941^cd3b1a4b174fb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch0000000000000000^3920"ProcessPCH Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-exmkwbaqxucbxcdfoavuutnrrcfk/AutoLayoutAnimation-Prefix.pch.pch AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuguang/Desktop/AutoLayoutAnimation    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-generated-files.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-own-target-headers.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-all-target-headers.hmap -iquote /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-project-headers.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/DerivedSources/x86_64 -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/DerivedSources -F/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-exmkwbaqxucbxcdfoavuutnrrcfk/AutoLayoutAnimation-Prefix.pch.dia -MMD -MT dependencies -MF /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-exmkwbaqxucbxcdfoavuutnrrcfk/AutoLayoutAnimation-Prefix.pch.d -c /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch -o /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-exmkwbaqxucbxcdfoavuutnrrcfk/AutoLayoutAnimation-Prefix.pch.pch36"4A67D0FF-FB5F-4EA8-8F1A-DC5AE310FB9A-
+b38ED16F8-2050-4D1F-87D5-68620C43E04B
+
+CProcessPCH /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-fgyoxfwnkkenytblovkeprammkmy/AutoLayoutAnimation-Prefix.pch.pch AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424613549.310877
+e424613550.680327
+r1
+xProcessPCH
+x/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-fgyoxfwnkkenytblovkeprammkmy/AutoLayoutAnimation-Prefix.pch.pch
+xAutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch
+d/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache/1PIBWZEDO6NCC/Darwin-3133I65RZ1TXG.pcm
+d/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache/1PIBWZEDO6NCC/MachO-3AY6H4PXFOQ85.pcm
+d/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache/1PIBWZEDO6NCC/ObjectiveC-CJA4U3ZCIO5H.pcm
+d/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache/1PIBWZEDO6NCC/os-3133I65RZ1TXG.pcm
+d/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache/1PIBWZEDO6NCC/Dispatch-4FMSCUQTDIQI.pcm
+d/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache/1PIBWZEDO6NCC/CoreFoundation-1V0BCRUTQ0HVY.pcm
+d/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache/1PIBWZEDO6NCC/Security-13JIW4C4ZDBHK.pcm
+d/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache/1PIBWZEDO6NCC/CFNetwork-Z8BMBGBJ8X3V.pcm
+d/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache/1PIBWZEDO6NCC/Foundation-210BIMCM43Z2F.pcm
+d/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache/1PIBWZEDO6NCC/CoreGraphics-Z8BMBGBJ8X3V.pcm
+d/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache/1PIBWZEDO6NCC/OpenGLES-1DU7AD8IMP4LW.pcm
+d/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache/1PIBWZEDO6NCC/CoreVideo-1P4LYRQ8APF3A.pcm
+d/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache/1PIBWZEDO6NCC/CoreImage-Z8BMBGBJ8X3V.pcm
+d/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache/1PIBWZEDO6NCC/CoreText-Z8BMBGBJ8X3V.pcm
+d/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache/1PIBWZEDO6NCC/QuartzCore-MS96M63TOSBI.pcm
+d/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache/1PIBWZEDO6NCC/UIKit-16AYEBDX2G7RS.pcm
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Precompile /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch259"ProcessPCH Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-fgyoxfwnkkenytblovkeprammkmy/AutoLayoutAnimation-Prefix.pch.pch AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler26aa4fad164fb941^4e2aaeae164fb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch0000000000000000^3897"ProcessPCH Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-fgyoxfwnkkenytblovkeprammkmy/AutoLayoutAnimation-Prefix.pch.pch AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuguang/Desktop/AutoLayoutAnimation    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/yuguang/Library/Developer/Xcode/DerivedData/ModuleCache -fmodules-prune-interval=86400 -fmodules-prune-after=345600 -Wnon-modular-include-in-framework-module -Werror=non-modular-include-in-framework-module -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-generated-files.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-own-target-headers.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-all-target-headers.hmap -iquote /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/AutoLayoutAnimation-project-headers.hmap -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/DerivedSources/i386 -I/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/AutoLayoutAnimation.build/Debug-iphonesimulator/AutoLayoutAnimation.build/DerivedSources -F/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-fgyoxfwnkkenytblovkeprammkmy/AutoLayoutAnimation-Prefix.pch.d -c /Users/yuguang/Desktop/AutoLayoutAnimation/AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch -o /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Intermediates/PrecompiledHeaders/AutoLayoutAnimation-Prefix-fgyoxfwnkkenytblovkeprammkmy/AutoLayoutAnimation-Prefix.pch.pch36"CE5AFAA5-9651-47F3-A846-5081A3A49794-
+bD1BACDBC-8FE6-4F1D-ABF2-27EF0F67B62E
+
+CProcessPCH /Users/yuguang/Library/Developer/Xcode/DerivedData/AutoLayoutAnimation-efxlmediqtutsuepywoqnpbdupsp/Index/PrecompiledHeaders/AutoLayoutAnimation-Prefix-ddwfnevkahqejgentkzpoupzdkse_ast/AutoLayoutAnimation-Prefix.pch.pch AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/yuguang/Library/Developer/Xcode/DerivedData/AutoLayoutAnimation-efxlmediqtutsuepywoqnpbdupsp/Index/PrecompiledHeaders/AutoLayoutAnimation-Prefix-eogxlowlndjvxrauugvscpvkccrc_ast/AutoLayoutAnimation-Prefix.pch.pch AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/yuguang/Library/Developer/Xcode/DerivedData/AutoLayoutAnimation-efxlmediqtutsuepywoqnpbdupsp/Index/PrecompiledHeaders/AutoLayoutAnimation-Prefix-gjhdqwenjbcnhxeyoxbecszjyrwk_ast/AutoLayoutAnimation-Prefix.pch.pch AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app
+s424613680.091267
+e424613680.097505
+r1
+xTouch
+x/Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Touch /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app66"Touch Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app86751730174fb941^a8ff1830174fb941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app/0000000000000000^450"Touch Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app    cd /Users/yuguang/Desktop/AutoLayoutAnimation    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/yuguang/Desktop/AutoLayoutAnimation/Build/Products/Debug-iphonesimulator/AutoLayoutAnimation.app36"95ED6B71-FC78-4765-923E-F7FAD56A9BEB-
+b0B5D0C6A-7BE8-49FC-880D-6A69BD50AA72
+
