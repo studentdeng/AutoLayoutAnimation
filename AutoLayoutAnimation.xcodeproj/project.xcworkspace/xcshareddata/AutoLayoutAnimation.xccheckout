@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C08ADD3F-3DB0-4D61-9F9B-146A9055EB68</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AutoLayoutAnimation</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0E1F8AD2-1BDF-4876-962C-C57E17A9F83D</key>
+		<string>https://github.com/studentdeng/AutoLayoutAnimation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AutoLayoutAnimation.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0E1F8AD2-1BDF-4876-962C-C57E17A9F83D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/studentdeng/AutoLayoutAnimation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0E1F8AD2-1BDF-4876-962C-C57E17A9F83D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0E1F8AD2-1BDF-4876-962C-C57E17A9F83D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AutoLayoutAnimation</string>
+		</dict>
+	</array>
+</dict>
+</plist>

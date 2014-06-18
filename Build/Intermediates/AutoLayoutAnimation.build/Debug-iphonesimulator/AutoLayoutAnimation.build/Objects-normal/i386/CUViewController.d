@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.m \
-  /Users/yuguang/Desktop/AutoLayoutAnimation/CUViewController.h
+  /Users/yuguang/myOpenSource/AutoLayoutAnimation/CUViewController.m \
+  /Users/yuguang/myOpenSource/AutoLayoutAnimation/CUViewController.h

@@ -12,7 +12,12 @@
 
 @property (nonatomic, strong) NSMutableArray *imageViewList;
 @property (nonatomic, strong) NSArray *animationConstraints;
+@property (nonatomic, strong) NSArray *animationContainerConstraints;
+
 @property (weak, nonatomic) IBOutlet UIButton *animationButton;
+@property (weak, nonatomic) IBOutlet UIScrollView *scrollView;
+
+@property (nonatomic, strong) UIView *containerView;
 @end
 
 @implementation CUViewController
@@ -31,6 +36,13 @@
 - (void)viewDidLoad {
   [super viewDidLoad];
   // Do any additional setup after loading the view from its nib.
+  
+  UIView *contentView = [[UIView alloc]
+                         initWithFrame:CGRectMake(0,0,320,50 * 6 + 300)];
+  self.scrollView.contentSize = CGSizeMake(contentView.frame.size.width, contentView.frame.size.height);
+  [self.scrollView addSubview:contentView];
+  
+  self.containerView = [[UIView alloc] initWithFrame:self.view.bounds];
 
   self.imageViewList = [NSMutableArray array];
   for (int i = 0; i < 5; ++i) {
@@ -39,8 +51,19 @@
     [self.imageViewList addObject:imageView];
     imageView.translatesAutoresizingMaskIntoConstraints = NO;
     imageView.backgroundColor = [UIColor colorWithWhite:0 + 0.2 * i alpha:1.0];
-    [self.view insertSubview:imageView belowSubview:self.animationButton];
+    
+    [self.containerView insertSubview:imageView belowSubview:self.animationButton];
   }
+  
+  [contentView addSubview:self.containerView];
+  
+  self.containerView.translatesAutoresizingMaskIntoConstraints = NO;
+  [self.scrollView addConstraints:
+   [NSLayoutConstraint constraintsWithVisualFormat:@"H:|-0-[_containerView(320)]-0-|"
+                                           options:0
+                                           metrics:nil
+                                             views:NSDictionaryOfVariableBindings(_containerView)]
+   ];
 }
 
 - (void)updateViewConstraints
@@ -57,7 +80,7 @@
                                             options:0
                                             metrics:nil
                                               views:dictionary];
-    [self.view addConstraints:list];
+    [self.containerView addConstraints:list];
   }
 
   [self reset];
@@ -65,7 +88,7 @@
 
 - (IBAction)clicked:(id)sender {
   
-  [self.view layoutIfNeeded];
+  [self.containerView layoutIfNeeded];
   
   if (!_bExpand) {
     _bExpand = YES;
@@ -73,7 +96,8 @@
     [UIView animateWithDuration:.6f
                      animations:^{
                        
-                       [self.view removeConstraints:_animationConstraints];
+                       [self.containerView removeConstraints:_animationConstraints];
+                       [self.scrollView removeConstraints:self.animationContainerConstraints];
                        
                        int animationIndex = 2;
                        
@@ -86,7 +110,7 @@
                            value = [NSString stringWithFormat:@"-(-%d)-[%@(50)]", 50 * animationIndex,key];
                          }
                          if (i == animationIndex) {
-                           value = [NSString stringWithFormat:@"-0-[%@(%f)]", key, self.view.frame.size.height];
+                           value = [NSString stringWithFormat:@"-0-[%@(%f)]", key, self.containerView.frame.size.height];
                          }
                          
                          language = [language stringByAppendingString:value];
@@ -100,21 +124,28 @@
                                                                options:0
                                                                metrics:nil
                                                                  views:dic];
-                       [self.view addConstraints:self.animationConstraints];
+                       [self.containerView addConstraints:self.animationConstraints];
                        
-                       [self.view layoutIfNeeded];
+                       self.animationContainerConstraints = self.animationContainerConstraints = [NSLayoutConstraint constraintsWithVisualFormat:@"V:|-0-[_containerView]-0-|"
+                                                                                                                                         options:0
+                                                                                                                                         metrics:nil
+                                                                                                                                           views:NSDictionaryOfVariableBindings(_containerView)];
+                       [self.scrollView addConstraints:self.animationContainerConstraints];
+                       
+                       [self.containerView layoutIfNeeded];
                      }];
 
   }
   else
   {
-    [self.view layoutIfNeeded];
+    [self.containerView layoutIfNeeded];
     [UIView animateWithDuration:0.6f
                      animations:^{
-                       [self.view removeConstraints:_animationConstraints];
+                       [self.containerView removeConstraints:_animationConstraints];
+                       [self.scrollView removeConstraints:self.animationContainerConstraints];
                        [self reset];
                        
-                       [self.view layoutIfNeeded];
+                       [self.containerView layoutIfNeeded];
                      }];
     
     _bExpand = NO;
@@ -140,7 +171,16 @@
                                           metrics:nil
                                             views:dic];
   
-  [self.view addConstraints:self.animationConstraints];
+  [self.containerView addConstraints:self.animationConstraints];
+  
+  self.animationContainerConstraints = [NSLayoutConstraint constraintsWithVisualFormat:@"V:|-300-[_containerView(568)]"
+                                                                               options:0
+                                                                               metrics:nil
+                                                                                 views:NSDictionaryOfVariableBindings(_containerView)];
+  
+  [self.scrollView addConstraints:
+   self.animationContainerConstraints
+   ];
 }
 
 @end
