@@ -18,6 +18,9 @@
 @property (weak, nonatomic) IBOutlet UIScrollView *scrollView;
 
 @property (nonatomic, strong) UIView *containerView;
+@property (nonatomic, assign) CGFloat topYPos;
+@property (nonatomic, assign) CGFloat maxHeight;
+
 @end
 
 @implementation CUViewController
@@ -35,15 +38,8 @@
 
 - (void)viewDidLoad {
   [super viewDidLoad];
-  // Do any additional setup after loading the view from its nib.
-  
-  UIView *contentView = [[UIView alloc]
-                         initWithFrame:CGRectMake(0,0,320,50 * 6 + 300)];
-  self.scrollView.contentSize = CGSizeMake(contentView.frame.size.width, contentView.frame.size.height);
-  [self.scrollView addSubview:contentView];
-  
   self.containerView = [[UIView alloc] initWithFrame:self.view.bounds];
-
+  [self.scrollView addSubview:self.containerView];
   self.imageViewList = [NSMutableArray array];
   for (int i = 0; i < 5; ++i) {
     UIImageView *imageView = [UIImageView new];
@@ -55,20 +51,20 @@
     [self.containerView insertSubview:imageView belowSubview:self.animationButton];
   }
   
-  [contentView addSubview:self.containerView];
-  
-  self.containerView.translatesAutoresizingMaskIntoConstraints = NO;
-  [self.scrollView addConstraints:
-   [NSLayoutConstraint constraintsWithVisualFormat:@"H:|-0-[_containerView(320)]-0-|"
-                                           options:0
-                                           metrics:nil
-                                             views:NSDictionaryOfVariableBindings(_containerView)]
-   ];
+  self.scrollView.alwaysBounceVertical = YES;
 }
 
 - (void)updateViewConstraints
 {
   [super updateViewConstraints];
+  
+  self.containerView.translatesAutoresizingMaskIntoConstraints = NO;
+  [self.scrollView addConstraints:
+   [NSLayoutConstraint constraintsWithVisualFormat:@"H:|[_containerView(320)]|"
+                                           options:0
+                                           metrics:nil
+                                             views:NSDictionaryOfVariableBindings(_containerView)]
+   ];
   
   for (int i = 0; i < self.imageViewList.count; ++i) {
     NSString *key = [@"imageView" stringByAppendingString:[@(i) stringValue]];
@@ -110,7 +106,7 @@
                            value = [NSString stringWithFormat:@"-(-%d)-[%@(50)]", 50 * animationIndex,key];
                          }
                          if (i == animationIndex) {
-                           value = [NSString stringWithFormat:@"-0-[%@(%f)]", key, self.containerView.frame.size.height];
+                           value = [NSString stringWithFormat:@"-0-[%@(%f)]", key, self.maxHeight];
                          }
                          
                          language = [language stringByAppendingString:value];
@@ -173,7 +169,9 @@
   
   [self.containerView addConstraints:self.animationConstraints];
   
-  self.animationContainerConstraints = [NSLayoutConstraint constraintsWithVisualFormat:@"V:|-300-[_containerView(568)]"
+  NSString *lan = [NSString stringWithFormat:@"V:|-(%f)-[_containerView]", self.topYPos];
+  
+  self.animationContainerConstraints = [NSLayoutConstraint constraintsWithVisualFormat:lan
                                                                                options:0
                                                                                metrics:nil
                                                                                  views:NSDictionaryOfVariableBindings(_containerView)];
@@ -181,6 +179,24 @@
   [self.scrollView addConstraints:
    self.animationContainerConstraints
    ];
+}
+
+- (void)viewDidLayoutSubviews
+{
+  [super viewDidLayoutSubviews];
+  
+  [self.scrollView removeConstraints:self.animationContainerConstraints];
+  
+  self.topYPos = self.scrollView.frame.size.height - 50 * self.imageViewList.count;
+  self.maxHeight = self.scrollView.bounds.size.height;
+  NSString *lan = [NSString stringWithFormat:@"V:|-(%f)-[_containerView]", self.topYPos];
+  
+  self.animationContainerConstraints = [NSLayoutConstraint constraintsWithVisualFormat:lan
+                                                                               options:0
+                                                                               metrics:nil
+                                                                                 views:NSDictionaryOfVariableBindings(_containerView)];
+  [self.scrollView addConstraints:self.animationContainerConstraints];
+  [self.view layoutIfNeeded];
 }
 
 @end

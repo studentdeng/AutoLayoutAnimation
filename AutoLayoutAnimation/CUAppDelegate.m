@@ -15,6 +15,9 @@
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
   
+  UITabBarController *tabVC = [UITabBarController new];
+  [tabVC setViewControllers:@[[CUViewController new]]];
+  
   self.window.rootViewController = [CUViewController new];
   
     // Override point for customization after application launch.

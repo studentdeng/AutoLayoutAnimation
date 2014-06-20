@@ -371,7 +371,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch";
 				INFOPLIST_FILE = "AutoLayoutAnimation/AutoLayoutAnimation-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -384,7 +386,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AutoLayoutAnimation/AutoLayoutAnimation-Prefix.pch";
 				INFOPLIST_FILE = "AutoLayoutAnimation/AutoLayoutAnimation-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -448,6 +452,7 @@
 				13ADFA14194ED51E00467330 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		13ADFA15194ED51E00467330 /* Build configuration list for PBXNativeTarget "AutoLayoutAnimationTests" */ = {
 			isa = XCConfigurationList;
@@ -456,6 +461,7 @@
 				13ADFA17194ED51E00467330 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

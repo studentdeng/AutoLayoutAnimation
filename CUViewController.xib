@@ -19,10 +19,6 @@
                 <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Ood-Nz-64p">
                     <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <constraints>
-                        <constraint firstAttribute="height" constant="568" id="Afm-DA-UJc"/>
-                        <constraint firstAttribute="width" constant="320" id="CWW-5C-Jps"/>
-                    </constraints>
                 </scrollView>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bkJ-Rd-CXp">
                     <rect key="frame" x="12" y="287" width="148" height="30"/>
@@ -42,11 +38,7 @@
                 <constraint firstItem="Ood-Nz-64p" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="Gb9-HT-xSm"/>
                 <constraint firstItem="Ood-Nz-64p" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="MfN-qd-ZSb"/>
                 <constraint firstAttribute="bottom" secondItem="Ood-Nz-64p" secondAttribute="bottom" id="NUO-2Z-tcY"/>
-                <constraint firstItem="Ood-Nz-64p" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="V7V-Rb-hNE"/>
-                <constraint firstAttribute="trailing" secondItem="Ood-Nz-64p" secondAttribute="trailing" id="azK-W3-mR1"/>
                 <constraint firstItem="bkJ-Rd-CXp" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="287" id="fI7-kc-w5M"/>
-                <constraint firstItem="Ood-Nz-64p" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="r0N-6y-Wco"/>
-                <constraint firstAttribute="bottom" secondItem="Ood-Nz-64p" secondAttribute="bottom" id="tlJ-hD-IEC"/>
                 <constraint firstItem="bkJ-Rd-CXp" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="12" id="vYg-4f-U7Z"/>
                 <constraint firstAttribute="trailing" secondItem="Ood-Nz-64p" secondAttribute="trailing" id="y0a-lh-UwE"/>
             </constraints>
